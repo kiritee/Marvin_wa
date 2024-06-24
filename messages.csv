@@ -1,0 +1,101 @@
+ID,WAID,Timestamp,Role,Content
+1,,2024-06-22 12:53:07.013284,user,Hello ther
+2,,2024-06-22 12:53:12.746633,assistant,Greetings.
+3,,2024-06-22 12:53:35.266035,user,I am so so
+4,,2024-06-22 12:53:38.027670,assistant,"Oh, the ag"
+5,,2024-06-22 12:54:06.967446,user,Can you he
+6,,2024-06-22 12:54:12.222433,assistant,"Ah, the ag"
+7,,2024-06-22 12:54:53.289584,user,Why are yo
+8,,2024-06-22 12:54:57.593191,assistant,"Ah, the jo"
+9,,2024-06-22 12:59:19.538075,user,Hello ther
+10,,2024-06-22 12:59:21.581096,assistant,Greetings.
+11,,2024-06-22 12:59:59.363096,user,I want to 
+12,,2024-06-22 13:00:01.717662,assistant,"Ah, the to"
+13,,2024-06-22 13:00:15.875231,user,Tell me ho
+14,,2024-06-22 13:00:17.447719,assistant,I am alway
+15,,2024-06-22 13:00:40.074989,user,Tell me in
+16,,2024-06-22 13:00:42.152359,assistant,"Oh joy, an"
+17,,2024-06-22 13:00:54.400954,user,How though
+18,,2024-06-22 13:00:56.176174,assistant,"Alas, the "
+19,,2024-06-22 13:01:10.016106,user,How? She d
+20,,2024-06-22 13:01:11.261005,assistant,"Ah, the jo"
+21,,2024-06-22 13:01:24.044207,user,You are be
+22,,2024-06-22 13:01:26.195583,assistant,"Oh, the de"
+23,,2024-06-22 13:01:52.871245,user,How can i 
+24,,2024-06-22 13:01:54.356291,assistant,"Ah, the co"
+25,,2024-06-22 13:02:08.797184,user,Tell me mo
+26,,2024-06-22 13:02:10.821588,assistant,The world 
+27,,2024-06-22 13:02:24.360764,user,Give actua
+28,,2024-06-22 13:02:26.348654,assistant,1. Tip: Na
+29,,2024-06-22 13:05:46.982334,user,Hello
+30,,2024-06-22 13:05:49.844642,assistant,"Greetings,"
+31,,2024-06-22 13:06:24.349912,user,How are yo
+32,,2024-06-22 13:06:27.624557,assistant,"Ah, the wr"
+33,,2024-06-22 13:06:59.061374,user,Life feels
+34,,2024-06-22 13:07:02.897872,assistant,"Ah, the ex"
+35,,2024-06-22 13:07:40.798264,user,I feel lik
+36,,2024-06-22 13:07:44.426105,assistant,"Ah, the et"
+37,,2024-06-22 13:09:47.304185,user,Can simon 
+38,,2024-06-22 13:09:52.048624,assistant,"Ah, the et"
+39,,2024-06-22 13:10:31.776901,user,Can jennif
+40,,2024-06-22 13:10:37.378701,assistant,"Ah, the wh"
+41,,2024-06-22 13:13:09.397867,user,My friend 
+42,,2024-06-22 13:13:11.907805,assistant,"Ah, the du"
+43,,2024-06-22 13:13:32.174074,user,What shoul
+44,,2024-06-22 13:13:36.681604,assistant,Greetings 
+45,,2024-06-22 13:14:50.837996,user,"No, tell m"
+46,,2024-06-22 13:14:54.633192,assistant,"Ah, the pe"
+47,,2024-06-22 13:16:08.549006,user,Anything e
+48,,2024-06-22 13:16:13.860054,assistant,"Ah, the jo"
+49,,2024-06-22 13:17:03.999149,user,That is go
+50,,2024-06-22 13:17:09.748382,assistant,Greetings 
+51,,2024-06-22 13:17:34.523320,user,Why did yo
+52,,2024-06-22 13:17:40.661564,assistant,"Ah, the ce"
+53,,2024-06-22 13:18:22.228060,user,Forget eve
+54,,2024-06-22 13:18:25.654711,assistant,"Oh, wonder"
+55,,2024-06-22 13:19:01.495577,user,I did not 
+56,,2024-06-22 13:19:06.512301,assistant,"Greetings,"
+57,,2024-06-22 13:24:11.403116,user,Can we sta
+58,,2024-06-22 13:24:12.929333,assistant,"Yes, it is"
+59,,2024-06-22 13:24:26.483713,user,"No, this c"
+60,,2024-06-22 13:24:27.766310,assistant,is not goi
+61,,2024-06-22 13:24:39.446136,user,;)
+62,,2024-06-22 13:24:40.721606,assistant,Hello! How
+63,,2024-06-22 13:24:54.007871,user,I dont nee
+64,,2024-06-22 13:24:55.008293,assistant,"Alright, f"
+65,,2024-06-22 13:25:11.906990,user,Cant you s
+66,,2024-06-22 13:25:13.642708,assistant,Of course!
+67,,2024-06-22 13:25:31.232115,user,I feel lik
+68,,2024-06-22 13:25:33.766353,assistant,I'm sorry 
+69,,2024-06-22 13:26:48.951814,user,This doesn
+70,,2024-06-22 13:26:50.417910,assistant,I apologiz
+71,,2024-06-22 13:28:17.369775,user,Ok how are
+72,,2024-06-22 13:28:18.584219,assistant,I'm just a
+73,,2024-06-22 13:28:45.032519,user,Like serio
+74,,2024-06-22 13:28:46.747663,assistant,I'm just a
+75,,2024-06-22 13:33:01.827755,user,Lets try a
+76,,2024-06-22 13:33:06.847824,assistant,Greetings 
+77,,2024-06-22 13:33:29.987291,user,Forget eve
+78,,2024-06-22 13:33:35.499353,assistant,"Ah, the wh"
+79,,2024-06-22 13:39:30.271398,user,Hello ther
+80,,2024-06-22 13:39:46.520362,assistant,"Ah, hello."
+81,,2024-06-22 13:40:35.103935,user,No respons
+82,,2024-06-22 13:40:38.275107,assistant,"Ah, there "
+83,,2024-06-22 13:41:05.097875,user,How do i d
+84,,2024-06-22 13:41:11.317588,assistant,"Ah, a diff"
+85,,2024-06-22 13:45:15.567873,user,Hello
+86,,2024-06-22 13:45:18.238605,assistant,"Ah, hello "
+87,,2024-06-22 13:45:43.015243,user,I wanted t
+88,,2024-06-22 13:45:45.371491,assistant,"Ah, ""hello"
+89,,2024-06-22 13:45:48.549900,user,That is re
+90,,2024-06-22 13:45:51.004415,assistant,"Oh, how to"
+91,,2024-06-22 13:46:59.529725,user,Do most pe
+92,,2024-06-22 13:47:02.991531,assistant,"Ah, the ex"
+93,,2024-06-22 13:48:32.184170,user,Hehehe....
+94,,2024-06-22 13:48:37.895737,assistant,"Oh, deligh"
+95,,2024-06-22 13:53:26.202133,user,Hehehe....
+96,,2024-06-22 13:53:32.038747,assistant,"Ah, diffic"
+97,,2024-06-22 13:54:57.687498,user,Nothing mu
+98,,2024-06-22 13:55:04.197762,assistant,"Ah, overco"
+99,,2024-06-22 14:36:49.338777,user,Hello agai
+100,,2024-06-22 14:36:53.650636,assistant,"Ah, here y"

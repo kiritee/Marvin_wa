@@ -1,0 +1,26 @@
+```(python)
+
+from twilio.twiml.messaging_response import MessagingResponse
+from twilio.rest import Client
+TWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID')
+TWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN')
+
+@app.route('/whatsapp', methods=['POST'])
+def whatsapp_reply():
+    #get user's message
+    user_message = {
+        'waid' : request.values.get('WaID', '').strip(),
+        'content':request.values.get('Body', '').strip(),
+    }
+
+    #pass it to Marvin and get response back
+    reply = marvin(user_message)
+
+    # create Twilio response object out of reply and send back
+    response = MessagingResponse()
+    message = response.message()
+    message.body(reply)
+    return str(response)
+```
+
+twilio has a whatsapp amessage character limit of 1600. if "reply" is greater than 1600  characters, can it be automatically be splot into multiple messags and sent by twilio

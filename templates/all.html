@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Display</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="chat-box">
+        <div class="chat-box-header">
+            <h3>Message History</h3>
+        </div>
+        <div class="chat-box-body" id="messages">
+            {% for message in messages %}
+                {% if message.direction == "inbound" %}
+                    <div class="chat-box-body-send">
+                        <p>{{ message.body }}</p>
+                        <span>{{ message.date_sent }}</span>
+                    </div>
+                {% else %}
+                    <div class="chat-box-body-receive">
+                        <p>{{ message.body }}</p>
+                        <span>{{ message.date_sent }}</span>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
